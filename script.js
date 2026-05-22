@@ -1,10 +1,4 @@
-/**
- * SWARAJ ATELIER — script.js
- * Live countdown + digit flip animations
- */
-'use strict';
 
-/* ── Target: 15 August 2026, midnight IST (UTC+5:30) ── */
 const LAUNCH = new Date('2026-08-15T00:00:00+05:30');
 
 const elMonths  = document.getElementById('months');
